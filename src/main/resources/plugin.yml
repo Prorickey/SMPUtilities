@@ -1,0 +1,12 @@
+name: SMPUtilities
+version: 1.0-dev
+api-version: 1.14
+main: me.prorickey.smputilities.SMPUtilities
+commands:
+  smputilities:
+    description: The main utilities command
+    usage: /<command>
+    aliases:
+      - su
+      - sutils
+      - smputils
